@@ -13,7 +13,7 @@ The notebook can be found here:
 * Download this repo https://github.com/seanbenhur/ames-housing
 * Go back to http://localhost:8888, load your Notebook into Jupyter and run it. That's it!
 
-## Some of the techniques that are done in this notebook,
+## Some of the visualizations that are done in this notebook, for preprocessing Techniques
 ### Correlation
 ![Correlation](https://github.com/seanbenhur/ames-housing/blob/master/images/heatmap.png)
 ### Missing Values
