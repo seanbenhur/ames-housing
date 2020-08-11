@@ -18,7 +18,7 @@ The notebook can be found here:
 ![Correlation](https://github.com/seanbenhur/ames-housing/blob/master/images/heatmap.png)
 ### Missing Values
 ![Missing Values](https://github.com/seanbenhur/ames-housing/blob/master/images/missing.png)
-### Scatter Plots
-![Scatter plots](https://github.com/seanbenhur/ames-housing/blob/master/images/scatter.png)
+
+
 ### To find skewness
 ![Skewness](https://github.com/seanbenhur/ames-housing/blob/master/images/skew.png)
